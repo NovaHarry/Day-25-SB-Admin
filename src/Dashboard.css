@@ -1,0 +1,49 @@
+.container{
+    display: grid;
+    height: 100vh;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+}
+.top-bar{
+    display: flex;
+    justify-content: space-around;
+}
+.search-btn{
+    color:white;
+    background-color: rgb(27, 105, 196);
+    border: none;
+    font-size: 20px;
+}
+.dashboard{
+    display: flex;
+}
+
+.cards{
+    display: flex;
+    justify-content: space-around;
+    height: 80%;   
+}
+.sub-cards{
+    background-color: rgb(111, 143, 247);
+    margin: 5px;
+    width: 100%;
+    color:white;
+}
+.color{
+    background-color: rgb(111, 143, 247);
+    height: auto;
+    color:white;
+    font-weight: 500;
+}
+.cards-contents{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.icons{
+    font-size: 30px;
+    color: rgb(58, 56, 56);
+    opacity: 80%;
+}
+
+
+
