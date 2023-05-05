@@ -1,8 +1,7 @@
 import './Dashboard.css';
 import { Button, Card } from "react-bootstrap";
 import 'bootstrap-icons/font/bootstrap-icons.css';
-import Form from 'react-bootstrap/Form';
-import InputGroup from 'react-bootstrap/InputGroup';
+
 
 
 function Dashboard() {

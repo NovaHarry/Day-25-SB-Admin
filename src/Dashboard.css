@@ -12,9 +12,12 @@
     background-color: rgb(27, 105, 196);
     border: none;
     font-size: 20px;
+    
 }
 .dashboard{
     display: flex;
+    background-color: rgb(111, 143, 247);
+    margin: 3px;
 }
 
 .cards{
